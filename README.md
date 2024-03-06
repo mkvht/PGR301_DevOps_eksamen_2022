@@ -1,5 +1,9 @@
 # Eksamen 2022
 ## DevOps i Skyen
+
+Dette er en arbeid gjort i forbindelse med kurs kode på Kristiania.
+Oppnådd karakter: A
+
 [![CI pipeline](https://github.com/mkvht/PGR301_eksamen_2022/actions/workflows/ci.yml/badge.svg)](https://github.com/mkvht/PGR301_eksamen_2022/actions/workflows/ci.yml)
 [![Docker build](https://github.com/mkvht/PGR301_eksamen_2022/actions/workflows/docker.yml/badge.svg)](https://github.com/mkvht/PGR301_eksamen_2022/actions/workflows/docker.yml)
 [![Terraform CloudWatch](https://github.com/mkvht/PGR301_eksamen_2022/actions/workflows/cloudwatch_dashboard.yml/badge.svg)](https://github.com/mkvht/PGR301_eksamen_2022/actions/workflows/cloudwatch_dashboard.yml)
